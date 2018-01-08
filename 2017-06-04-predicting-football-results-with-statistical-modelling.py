@@ -16,7 +16,7 @@ import numpy as np
 import seaborn
 from scipy.stats import poisson,skellam
 
-league = "spain.csv"
+league = "a-league.csv"
 
 epl_1617 = pd.read_csv(league)
 epl_1617_b = pd.read_csv(league)
@@ -131,8 +131,8 @@ plt.show()
 
 
 fig,(ax1,ax2) = plt.subplots(2, 1)
-HT='Celta Vigo'
-AT='Real Madrid'
+HT='Perth Glory'
+AT='Melbourne City'
 
 chel_home = epl_1617[epl_1617['HomeTeam']==HT][['HomeGoals']].apply(pd.value_counts,normalize=True)
 chel_home_pois = [poisson.pmf(i,np.sum(np.multiply(chel_home.values.T,chel_home.index.T),axis=1)[0]) for i in range(8)]
