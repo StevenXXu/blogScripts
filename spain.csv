@@ -1,0 +1,1141 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG
+2014/8/23,Malaga CF,Athletic Bilbao,1,0
+2014/8/23,Sevilla FC,Valencia CF,1,1
+2014/8/23,Granada CF,Deportivo La Coruna,2,1
+2014/8/23,UD Almeria,Espanyol Barcelona,1,1
+2014/8/24,SD Eibar,Real Sociedad,1,0
+2014/8/24,Celta Vigo,Getafe CF,3,1
+2014/8/24,FC Barcelona,Elche CF,3,0
+2014/8/24,Levante UD,Villarreal CF,0,2
+2014/8/25,Real Madrid,Cordoba CF,2,0
+2014/8/25,Rayo Vallecano,Atletico Madrid,0,0
+2014/8/29,Getafe CF,UD Almeria,1,0
+2014/8/29,Valencia CF,Malaga CF,3,0
+2014/8/30,Cordoba CF,Celta Vigo,1,1
+2014/8/30,Athletic Bilbao,Levante UD,3,0
+2014/8/30,Atletico Madrid,SD Eibar,2,1
+2014/8/30,Espanyol Barcelona,Sevilla FC,1,2
+2014/8/31,Villarreal CF,FC Barcelona,0,1
+2014/8/31,Real Sociedad,Real Madrid,4,2
+2014/8/31,Deportivo La Coruna,Rayo Vallecano,2,2
+2014/8/31,Elche CF,Granada CF,1,1
+2014/9/12,UD Almeria,Cordoba CF,1,1
+2014/9/13,FC Barcelona,Athletic Bilbao,2,0
+2014/9/13,Malaga CF,Levante UD,0,0
+2014/9/13,Real Madrid,Atletico Madrid,1,2
+2014/9/13,Celta Vigo,Real Sociedad,2,2
+2014/9/14,Rayo Vallecano,Elche CF,2,3
+2014/9/14,Valencia CF,Espanyol Barcelona,3,1
+2014/9/14,Sevilla FC,Getafe CF,2,0
+2014/9/14,Granada CF,Villarreal CF,0,0
+2014/9/15,SD Eibar,Deportivo La Coruna,0,1
+2014/9/19,Elche CF,SD Eibar,0,2
+2014/9/20,Deportivo La Coruna,Real Madrid,2,8
+2014/9/20,Athletic Bilbao,Granada CF,0,1
+2014/9/20,Atletico Madrid,Celta Vigo,2,2
+2014/9/20,Espanyol Barcelona,Malaga CF,2,2
+2014/9/21,Real Sociedad,UD Almeria,1,2
+2014/9/21,Villarreal CF,Rayo Vallecano,4,2
+2014/9/21,Cordoba CF,Sevilla FC,1,3
+2014/9/21,Levante UD,FC Barcelona,0,5
+2014/9/22,Getafe CF,Valencia CF,0,3
+2014/9/23,Real Madrid,Elche CF,5,1
+2014/9/23,Celta Vigo,Deportivo La Coruna,2,1
+2014/9/24,UD Almeria,Atletico Madrid,0,1
+2014/9/24,SD Eibar,Villarreal CF,1,1
+2014/9/24,Rayo Vallecano,Athletic Bilbao,2,1
+2014/9/24,Sevilla FC,Real Sociedad,1,0
+2014/9/24,Granada CF,Levante UD,0,1
+2014/9/24,Malaga CF,FC Barcelona,0,0
+2014/9/25,Espanyol Barcelona,Getafe CF,2,0
+2014/9/25,Valencia CF,Cordoba CF,3,0
+2014/9/26,Elche CF,Celta Vigo,0,1
+2014/9/27,Villarreal CF,Real Madrid,0,2
+2014/9/27,FC Barcelona,Granada CF,6,0
+2014/9/27,Atletico Madrid,Sevilla FC,4,0
+2014/9/27,Athletic Bilbao,SD Eibar,0,0
+2014/9/27,Levante UD,Rayo Vallecano,0,2
+2014/9/28,Getafe CF,Malaga CF,1,0
+2014/9/28,Deportivo La Coruna,UD Almeria,0,1
+2014/9/28,Real Sociedad,Valencia CF,1,1
+2014/9/28,Cordoba CF,Espanyol Barcelona,0,0
+2014/10/3,Getafe CF,Cordoba CF,1,1
+2014/10/4,Valencia CF,Atletico Madrid,3,1
+2014/10/4,Rayo Vallecano,FC Barcelona,0,2
+2014/10/4,SD Eibar,Levante UD,3,3
+2014/10/4,UD Almeria,Elche CF,2,2
+2014/10/4,Malaga CF,Granada CF,2,1
+2014/10/5,Sevilla FC,Deportivo La Coruna,4,1
+2014/10/5,Celta Vigo,Villarreal CF,1,3
+2014/10/5,Espanyol Barcelona,Real Sociedad,2,0
+2014/10/5,Real Madrid,Athletic Bilbao,5,0
+2014/10/17,Granada CF,Rayo Vallecano,0,1
+2014/10/18,Levante UD,Real Madrid,0,5
+2014/10/18,Athletic Bilbao,Celta Vigo,1,1
+2014/10/18,FC Barcelona,SD Eibar,3,0
+2014/10/18,Cordoba CF,Malaga CF,1,2
+2014/10/19,Atletico Madrid,Espanyol Barcelona,2,0
+2014/10/19,Deportivo La Coruna,Valencia CF,3,0
+2014/10/19,Elche CF,Sevilla FC,0,2
+2014/10/19,Villarreal CF,UD Almeria,2,0
+2014/10/20,Real Sociedad,Getafe CF,1,2
+2014/10/24,Celta Vigo,Levante UD,3,0
+2014/10/25,UD Almeria,Athletic Bilbao,0,1
+2014/10/25,Real Madrid,FC Barcelona,3,1
+2014/10/25,Valencia CF,Elche CF,3,1
+2014/10/25,Cordoba CF,Real Sociedad,1,1
+2014/10/25,SD Eibar,Granada CF,1,1
+2014/10/26,Malaga CF,Rayo Vallecano,4,0
+2014/10/26,Espanyol Barcelona,Deportivo La Coruna,0,0
+2014/10/26,Sevilla FC,Villarreal CF,2,1
+2014/10/26,Getafe CF,Atletico Madrid,0,1
+2014/10/31,Deportivo La Coruna,Getafe CF,1,2
+2014/11/1,Granada CF,Real Madrid,0,4
+2014/11/1,Atletico Madrid,Cordoba CF,4,2
+2014/11/1,FC Barcelona,Celta Vigo,0,1
+2014/11/1,Real Sociedad,Malaga CF,0,1
+2014/11/2,Athletic Bilbao,Sevilla FC,1,0
+2014/11/2,Villarreal CF,Valencia CF,1,3
+2014/11/2,Levante UD,UD Almeria,2,1
+2014/11/2,Elche CF,Espanyol Barcelona,2,1
+2014/11/3,Rayo Vallecano,SD Eibar,2,3
+2014/11/7,Cordoba CF,Deportivo La Coruna,0,0
+2014/11/8,UD Almeria,FC Barcelona,1,2
+2014/11/8,Getafe CF,Elche CF,0,0
+2014/11/8,Real Madrid,Rayo Vallecano,5,1
+2014/11/8,Celta Vigo,Granada CF,0,0
+2014/11/8,Malaga CF,SD Eibar,2,1
+2014/11/9,Sevilla FC,Levante UD,1,1
+2014/11/9,Espanyol Barcelona,Villarreal CF,1,1
+2014/11/9,Valencia CF,Athletic Bilbao,0,0
+2014/11/9,Real Sociedad,Atletico Madrid,2,1
+2014/11/21,Athletic Bilbao,Espanyol Barcelona,3,1
+2014/11/22,Atletico Madrid,Malaga CF,3,1
+2014/11/22,SD Eibar,Real Madrid,0,4
+2014/11/22,FC Barcelona,Sevilla FC,5,1
+2014/11/22,Deportivo La Coruna,Real Sociedad,0,0
+2014/11/23,Rayo Vallecano,Celta Vigo,1,0
+2014/11/23,Levante UD,Valencia CF,2,1
+2014/11/23,Elche CF,Cordoba CF,2,2
+2014/11/23,Villarreal CF,Getafe CF,2,1
+2014/11/24,Granada CF,UD Almeria,0,0
+2014/11/28,Real Sociedad,Elche CF,3,0
+2014/11/29,Getafe CF,Athletic Bilbao,1,2
+2014/11/29,Espanyol Barcelona,Levante UD,2,1
+2014/11/29,Malaga CF,Real Madrid,1,2
+2014/11/29,Celta Vigo,SD Eibar,0,1
+2014/11/30,Atletico Madrid,Deportivo La Coruna,2,0
+2014/11/30,Sevilla FC,Granada CF,5,1
+2014/11/30,Cordoba CF,Villarreal CF,0,2
+2014/11/30,Valencia CF,FC Barcelona,0,1
+2014/12/1,UD Almeria,Rayo Vallecano,0,1
+2014/12/6,Elche CF,Atletico Madrid,0,2
+2014/12/6,Athletic Bilbao,Cordoba CF,0,1
+2014/12/6,Real Madrid,Celta Vigo,3,0
+2014/12/6,Deportivo La Coruna,Malaga CF,0,1
+2014/12/7,Rayo Vallecano,Sevilla FC,0,1
+2014/12/7,FC Barcelona,Espanyol Barcelona,5,1
+2014/12/7,Villarreal CF,Real Sociedad,4,0
+2014/12/7,Granada CF,Valencia CF,1,1
+2014/12/8,SD Eibar,UD Almeria,5,2
+2014/12/8,Levante UD,Getafe CF,1,1
+2014/12/12,UD Almeria,Real Madrid,1,4
+2014/12/13,Getafe CF,FC Barcelona,0,0
+2014/12/13,Valencia CF,Rayo Vallecano,3,0
+2014/12/13,Cordoba CF,Levante UD,0,0
+2014/12/13,Malaga CF,Celta Vigo,1,0
+2014/12/14,Espanyol Barcelona,Granada CF,2,1
+2014/12/14,Sevilla FC,SD Eibar,0,0
+2014/12/14,Atletico Madrid,Villarreal CF,0,1
+2014/12/14,Real Sociedad,Athletic Bilbao,1,1
+2014/12/15,Deportivo La Coruna,Elche CF,1,0
+2014/12/19,Celta Vigo,UD Almeria,0,1
+2014/12/20,FC Barcelona,Cordoba CF,5,0
+2014/12/20,Levante UD,Real Sociedad,1,1
+2014/12/20,SD Eibar,Valencia CF,0,1
+2014/12/20,Rayo Vallecano,Espanyol Barcelona,1,3
+2014/12/21,Villarreal CF,Deportivo La Coruna,3,0
+2014/12/21,Granada CF,Getafe CF,1,1
+2014/12/21,Elche CF,Malaga CF,1,2
+2014/12/21,Athletic Bilbao,Atletico Madrid,1,4
+2015/2/4,Real Madrid,Sevilla FC,2,1
+2015/1/3,Atletico Madrid,Levante UD,3,1
+2015/1/3,Sevilla FC,Celta Vigo,1,0
+2015/1/3,Elche CF,Villarreal CF,2,2
+2015/1/3,Deportivo La Coruna,Athletic Bilbao,1,0
+2015/1/3,Malaga CF,UD Almeria,1,2
+2015/1/4,Getafe CF,Rayo Vallecano,1,2
+2015/1/4,Valencia CF,Real Madrid,2,1
+2015/1/4,Espanyol Barcelona,SD Eibar,1,2
+2015/1/4,Real Sociedad,FC Barcelona,1,0
+2015/1/5,Cordoba CF,Granada CF,2,0
+2015/1/9,Levante UD,Deportivo La Coruna,0,0
+2015/1/10,Real Madrid,Espanyol Barcelona,3,0
+2015/1/10,Malaga CF,Villarreal CF,1,1
+2015/1/10,Celta Vigo,Valencia CF,1,1
+2015/1/10,SD Eibar,Getafe CF,2,1
+2015/1/11,UD Almeria,Sevilla FC,0,2
+2015/1/11,Athletic Bilbao,Elche CF,1,2
+2015/1/11,Granada CF,Real Sociedad,1,1
+2015/1/11,FC Barcelona,Atletico Madrid,3,1
+2015/1/12,Rayo Vallecano,Cordoba CF,0,1
+2015/1/16,Cordoba CF,SD Eibar,1,1
+2015/1/17,Real Sociedad,Rayo Vallecano,0,1
+2015/1/17,Valencia CF,UD Almeria,3,2
+2015/1/17,Villarreal CF,Athletic Bilbao,2,0
+2015/1/17,Espanyol Barcelona,Celta Vigo,1,0
+2015/1/18,Getafe CF,Real Madrid,0,3
+2015/1/18,Atletico Madrid,Granada CF,2,0
+2015/1/18,Deportivo La Coruna,FC Barcelona,0,4
+2015/1/18,Elche CF,Levante UD,1,0
+2015/1/18,Sevilla FC,Malaga CF,2,0
+2015/1/24,Cordoba CF,Real Madrid,1,2
+2015/1/24,Elche CF,FC Barcelona,0,6
+2015/1/24,Atletico Madrid,Rayo Vallecano,3,1
+2015/1/24,Villarreal CF,Levante UD,1,0
+2015/1/24,Real Sociedad,SD Eibar,1,0
+2015/1/25,Deportivo La Coruna,Granada CF,2,2
+2015/1/25,Athletic Bilbao,Malaga CF,1,1
+2015/1/25,Espanyol Barcelona,UD Almeria,3,0
+2015/1/25,Valencia CF,Sevilla FC,3,1
+2015/1/26,Getafe CF,Celta Vigo,2,1
+2015/1/30,Rayo Vallecano,Deportivo La Coruna,1,2
+2015/1/31,Real Madrid,Real Sociedad,4,1
+2015/1/31,SD Eibar,Atletico Madrid,1,3
+2015/1/31,Granada CF,Elche CF,1,0
+2015/1/31,Celta Vigo,Cordoba CF,1,0
+2015/2/1,Levante UD,Athletic Bilbao,0,2
+2015/2/1,UD Almeria,Getafe CF,1,0
+2015/2/1,Sevilla FC,Espanyol Barcelona,3,2
+2015/2/1,FC Barcelona,Villarreal CF,3,2
+2015/2/2,Malaga CF,Valencia CF,1,0
+2015/2/6,Deportivo La Coruna,SD Eibar,2,0
+2015/2/7,Atletico Madrid,Real Madrid,4,0
+2015/2/7,Villarreal CF,Granada CF,2,0
+2015/2/7,Levante UD,Malaga CF,4,1
+2015/2/7,Real Sociedad,Celta Vigo,1,1
+2015/2/8,Cordoba CF,UD Almeria,1,2
+2015/2/8,Getafe CF,Sevilla FC,2,1
+2015/2/8,Espanyol Barcelona,Valencia CF,1,2
+2015/2/8,Athletic Bilbao,FC Barcelona,2,5
+2015/2/9,Elche CF,Rayo Vallecano,2,0
+2015/2/13,UD Almeria,Real Sociedad,2,2
+2015/2/14,Sevilla FC,Cordoba CF,3,0
+2015/2/14,Real Madrid,Deportivo La Coruna,2,0
+2015/2/14,Granada CF,Athletic Bilbao,0,0
+2015/2/14,Malaga CF,Espanyol Barcelona,0,2
+2015/2/15,Valencia CF,Getafe CF,1,0
+2015/2/15,FC Barcelona,Levante UD,5,0
+2015/2/15,Rayo Vallecano,Villarreal CF,2,0
+2015/2/15,Celta Vigo,Atletico Madrid,2,0
+2015/2/16,SD Eibar,Elche CF,0,1
+2015/2/20,Getafe CF,Espanyol Barcelona,2,1
+2015/2/21,FC Barcelona,Malaga CF,0,1
+2015/2/21,Cordoba CF,Valencia CF,1,2
+2015/2/21,Atletico Madrid,UD Almeria,3,0
+2015/2/21,Deportivo La Coruna,Celta Vigo,0,2
+2015/2/22,Real Sociedad,Sevilla FC,4,3
+2015/2/22,Athletic Bilbao,Rayo Vallecano,1,0
+2015/2/22,Villarreal CF,SD Eibar,1,0
+2015/2/22,Elche CF,Real Madrid,0,2
+2015/2/23,Levante UD,Granada CF,2,1
+2015/2/27,Espanyol Barcelona,Cordoba CF,1,0
+2015/2/28,Granada CF,FC Barcelona,1,3
+2015/2/28,Rayo Vallecano,Levante UD,4,2
+2015/2/28,UD Almeria,Deportivo La Coruna,0,0
+2015/2/28,Malaga CF,Getafe CF,3,2
+2015/3/1,Valencia CF,Real Sociedad,2,0
+2015/3/1,SD Eibar,Athletic Bilbao,0,1
+2015/3/1,Sevilla FC,Atletico Madrid,0,0
+2015/3/1,Real Madrid,Villarreal CF,1,1
+2015/3/2,Celta Vigo,Elche CF,1,1
+2015/3/6,Levante UD,SD Eibar,2,1
+2015/3/7,Deportivo La Coruna,Sevilla FC,3,4
+2015/3/7,Athletic Bilbao,Real Madrid,1,0
+2015/3/7,Elche CF,UD Almeria,1,0
+2015/3/7,Granada CF,Malaga CF,1,0
+2015/3/8,FC Barcelona,Rayo Vallecano,6,1
+2015/3/8,Real Sociedad,Espanyol Barcelona,1,0
+2015/3/8,Villarreal CF,Celta Vigo,4,1
+2015/3/8,Atletico Madrid,Valencia CF,1,1
+2015/3/9,Cordoba CF,Getafe CF,1,2
+2015/3/13,Valencia CF,Deportivo La Coruna,2,0
+2015/3/14,Espanyol Barcelona,Atletico Madrid,0,0
+2015/3/14,SD Eibar,FC Barcelona,0,2
+2015/3/14,Rayo Vallecano,Granada CF,3,1
+2015/3/14,Celta Vigo,Athletic Bilbao,1,2
+2015/3/15,UD Almeria,Villarreal CF,0,0
+2015/3/15,Malaga CF,Cordoba CF,2,0
+2015/3/15,Sevilla FC,Elche CF,3,0
+2015/3/15,Real Madrid,Levante UD,2,0
+2015/3/16,Getafe CF,Real Sociedad,0,1
+2015/3/20,Elche CF,Valencia CF,0,4
+2015/3/21,Atletico Madrid,Getafe CF,2,0
+2015/3/21,Rayo Vallecano,Malaga CF,1,0
+2015/3/21,Levante UD,Celta Vigo,0,1
+2015/3/21,Athletic Bilbao,UD Almeria,2,1
+2015/3/21,Granada CF,SD Eibar,0,0
+2015/3/22,Deportivo La Coruna,Espanyol Barcelona,0,0
+2015/3/22,Villarreal CF,Sevilla FC,0,2
+2015/3/22,Real Sociedad,Cordoba CF,3,1
+2015/3/22,FC Barcelona,Real Madrid,2,1
+2015/4/3,SD Eibar,Rayo Vallecano,1,2
+2015/4/4,Sevilla FC,Athletic Bilbao,2,0
+2015/4/4,Cordoba CF,Atletico Madrid,0,2
+2015/4/4,UD Almeria,Levante UD,1,4
+2015/4/4,Malaga CF,Real Sociedad,1,1
+2015/4/5,Real Madrid,Granada CF,9,1
+2015/4/5,Valencia CF,Villarreal CF,0,0
+2015/4/5,Getafe CF,Deportivo La Coruna,2,1
+2015/4/5,Celta Vigo,FC Barcelona,0,1
+2015/4/6,Espanyol Barcelona,Elche CF,1,1
+2015/4/7,Atletico Madrid,Real Sociedad,2,0
+2015/4/7,Levante UD,Sevilla FC,1,2
+2015/4/7,SD Eibar,Malaga CF,1,0
+2015/4/8,Deportivo La Coruna,Cordoba CF,1,1
+2015/4/8,FC Barcelona,UD Almeria,4,0
+2015/4/8,Granada CF,Celta Vigo,1,1
+2015/4/8,Rayo Vallecano,Real Madrid,0,2
+2015/4/9,Athletic Bilbao,Valencia CF,1,1
+2015/4/9,Elche CF,Getafe CF,0,1
+2015/4/9,Villarreal CF,Espanyol Barcelona,0,3
+2015/4/11,Real Madrid,SD Eibar,3,0
+2015/4/11,Malaga CF,Atletico Madrid,2,2
+2015/4/11,Sevilla FC,FC Barcelona,2,2
+2015/4/11,UD Almeria,Granada CF,3,0
+2015/4/11,Celta Vigo,Rayo Vallecano,6,1
+2015/4/12,Getafe CF,Villarreal CF,1,1
+2015/4/12,Espanyol Barcelona,Athletic Bilbao,1,0
+2015/4/12,Real Sociedad,Deportivo La Coruna,2,2
+2015/4/12,Cordoba CF,Elche CF,0,2
+2015/4/13,Valencia CF,Levante UD,3,0
+2015/4/17,Levante UD,Espanyol Barcelona,2,2
+2015/4/18,FC Barcelona,Valencia CF,2,0
+2015/4/18,Deportivo La Coruna,Atletico Madrid,1,2
+2015/4/18,Real Madrid,Malaga CF,3,1
+2015/4/18,Athletic Bilbao,Getafe CF,4,0
+2015/4/19,Rayo Vallecano,UD Almeria,2,0
+2015/4/19,Granada CF,Sevilla FC,1,1
+2015/4/19,Villarreal CF,Cordoba CF,0,0
+2015/4/19,SD Eibar,Celta Vigo,0,1
+2015/4/20,Elche CF,Real Sociedad,1,0
+2015/4/24,Cordoba CF,Athletic Bilbao,0,1
+2015/4/25,Espanyol Barcelona,FC Barcelona,0,2
+2015/4/25,Atletico Madrid,Elche CF,3,0
+2015/4/25,Getafe CF,Levante UD,0,1
+2015/4/25,Real Sociedad,Villarreal CF,0,0
+2015/4/26,Malaga CF,Deportivo La Coruna,1,1
+2015/4/26,UD Almeria,SD Eibar,2,0
+2015/4/26,Sevilla FC,Rayo Vallecano,2,0
+2015/4/26,Celta Vigo,Real Madrid,2,4
+2015/4/27,Valencia CF,Granada CF,4,0
+2015/4/28,FC Barcelona,Getafe CF,6,0
+2015/4/28,Athletic Bilbao,Real Sociedad,1,1
+2015/4/28,Levante UD,Cordoba CF,1,0
+2015/4/29,SD Eibar,Sevilla FC,1,3
+2015/4/29,Real Madrid,UD Almeria,3,0
+2015/4/29,Celta Vigo,Malaga CF,1,0
+2015/4/29,Elche CF,Deportivo La Coruna,4,0
+2015/4/29,Villarreal CF,Atletico Madrid,0,1
+2015/4/30,Rayo Vallecano,Valencia CF,1,1
+2015/4/30,Granada CF,Espanyol Barcelona,1,2
+2015/5/1,Real Sociedad,Levante UD,3,0
+2015/5/2,Cordoba CF,FC Barcelona,0,8
+2015/5/2,Atletico Madrid,Athletic Bilbao,0,0
+2015/5/2,Sevilla FC,Real Madrid,2,3
+2015/5/2,Deportivo La Coruna,Villarreal CF,1,1
+2015/5/3,Espanyol Barcelona,Rayo Vallecano,1,1
+2015/5/3,Getafe CF,Granada CF,1,2
+2015/5/3,Valencia CF,SD Eibar,3,1
+2015/5/3,Malaga CF,Elche CF,1,2
+2015/5/4,UD Almeria,Celta Vigo,2,2
+2015/5/8,SD Eibar,Espanyol Barcelona,0,2
+2015/5/9,Granada CF,Cordoba CF,2,0
+2015/5/9,FC Barcelona,Real Sociedad,2,0
+2015/5/9,Real Madrid,Valencia CF,2,2
+2015/5/9,Athletic Bilbao,Deportivo La Coruna,1,1
+2015/5/10,Levante UD,Atletico Madrid,2,2
+2015/5/10,Villarreal CF,Elche CF,1,0
+2015/5/10,UD Almeria,Malaga CF,1,2
+2015/5/10,Celta Vigo,Sevilla FC,1,1
+2015/5/11,Rayo Vallecano,Getafe CF,2,0
+2015/5/17,Villarreal CF,Malaga CF,2,1
+2015/5/17,Elche CF,Athletic Bilbao,2,3
+2015/5/17,Deportivo La Coruna,Levante UD,2,0
+2015/5/17,Atletico Madrid,FC Barcelona,0,1
+2015/5/17,Real Sociedad,Granada CF,0,3
+2015/5/17,Cordoba CF,Rayo Vallecano,1,2
+2015/5/17,Getafe CF,SD Eibar,1,1
+2015/5/17,Espanyol Barcelona,Real Madrid,1,4
+2015/5/17,Valencia CF,Celta Vigo,1,1
+2015/5/17,Sevilla FC,UD Almeria,2,1
+2015/5/23,Levante UD,Elche CF,0,0
+2015/5/23,Athletic Bilbao,Villarreal CF,4,0
+2015/5/23,FC Barcelona,Deportivo La Coruna,2,2
+2015/5/23,Granada CF,Atletico Madrid,0,0
+2015/5/23,Rayo Vallecano,Real Sociedad,2,4
+2015/5/23,SD Eibar,Cordoba CF,3,0
+2015/5/23,Celta Vigo,Espanyol Barcelona,3,2
+2015/5/23,UD Almeria,Valencia CF,2,3
+2015/5/23,Malaga CF,Sevilla FC,2,3
+2015/5/23,Real Madrid,Getafe CF,7,3
+2015/8/21,Malaga CF,Sevilla FC,0,0
+2015/8/22,Espanyol Barcelona,Getafe CF,1,0
+2015/8/22,Deportivo La Coruna,Real Sociedad,0,0
+2015/8/22,Atletico Madrid,UD Las Palmas,1,0
+2015/8/22,Rayo Vallecano,Valencia CF,0,0
+2015/8/23,Athletic Bilbao,FC Barcelona,0,1
+2015/8/23,Sporting Gijon,Real Madrid,0,0
+2015/8/23,Levante UD,Celta Vigo,1,2
+2015/8/23,Real Betis,Villarreal CF,1,1
+2015/8/24,Granada CF,SD Eibar,1,3
+2015/8/28,Villarreal CF,Espanyol Barcelona,3,1
+2015/8/29,Real Sociedad,Sporting Gijon,0,0
+2015/8/29,FC Barcelona,Malaga CF,1,0
+2015/8/29,Celta Vigo,Rayo Vallecano,3,0
+2015/8/29,Real Madrid,Real Betis,5,0
+2015/8/30,SD Eibar,Athletic Bilbao,2,0
+2015/8/30,Sevilla FC,Atletico Madrid,0,3
+2015/8/30,Valencia CF,Deportivo La Coruna,1,1
+2015/8/30,UD Las Palmas,Levante UD,0,0
+2015/8/30,Getafe CF,Granada CF,1,2
+2015/9/11,Levante UD,Sevilla FC,1,1
+2015/9/12,Espanyol Barcelona,Real Madrid,0,6
+2015/9/12,Sporting Gijon,Valencia CF,0,1
+2015/9/12,Atletico Madrid,FC Barcelona,1,2
+2015/9/12,Real Betis,Real Sociedad,1,0
+2015/9/13,Granada CF,Villarreal CF,1,3
+2015/9/13,Athletic Bilbao,Getafe CF,3,1
+2015/9/13,Celta Vigo,UD Las Palmas,3,3
+2015/9/13,Malaga CF,SD Eibar,0,0
+2015/9/14,Rayo Vallecano,Deportivo La Coruna,1,3
+2015/9/18,Getafe CF,Malaga CF,1,0
+2015/9/19,Real Madrid,Granada CF,1,0
+2015/9/19,Valencia CF,Real Betis,0,0
+2015/9/19,SD Eibar,Atletico Madrid,0,2
+2015/9/19,Real Sociedad,Espanyol Barcelona,2,3
+2015/9/20,Sevilla FC,Celta Vigo,1,2
+2015/9/20,Deportivo La Coruna,Sporting Gijon,2,3
+2015/9/20,Villarreal CF,Athletic Bilbao,3,1
+2015/9/20,UD Las Palmas,Rayo Vallecano,0,1
+2015/9/20,FC Barcelona,Levante UD,4,1
+2015/9/22,Atletico Madrid,Getafe CF,2,0
+2015/9/22,Espanyol Barcelona,Valencia CF,1,0
+2015/9/22,Granada CF,Real Sociedad,0,3
+2015/9/23,Celta Vigo,FC Barcelona,4,1
+2015/9/23,Levante UD,SD Eibar,2,2
+2015/9/23,Rayo Vallecano,Sporting Gijon,2,1
+2015/9/23,Athletic Bilbao,Real Madrid,1,2
+2015/9/23,UD Las Palmas,Sevilla FC,2,0
+2015/9/23,Malaga CF,Villarreal CF,0,1
+2015/9/24,Real Betis,Deportivo La Coruna,1,2
+2015/9/25,Valencia CF,Granada CF,1,0
+2015/9/26,FC Barcelona,UD Las Palmas,2,1
+2015/9/26,Real Madrid,Malaga CF,0,0
+2015/9/26,Sevilla FC,Rayo Vallecano,3,2
+2015/9/26,Villarreal CF,Atletico Madrid,1,0
+2015/9/26,SD Eibar,Celta Vigo,1,1
+2015/9/27,Sporting Gijon,Real Betis,1,2
+2015/9/27,Deportivo La Coruna,Espanyol Barcelona,3,0
+2015/9/27,Getafe CF,Levante UD,3,0
+2015/9/27,Real Sociedad,Athletic Bilbao,0,0
+2015/10/2,Celta Vigo,Getafe CF,0,0
+2015/10/3,Sevilla FC,FC Barcelona,2,1
+2015/10/3,Granada CF,Deportivo La Coruna,1,1
+2015/10/3,Espanyol Barcelona,Sporting Gijon,1,2
+2015/10/3,UD Las Palmas,SD Eibar,0,2
+2015/10/3,Malaga CF,Real Sociedad,3,1
+2015/10/4,Rayo Vallecano,Real Betis,0,2
+2015/10/4,Athletic Bilbao,Valencia CF,3,1
+2015/10/4,Levante UD,Villarreal CF,1,0
+2015/10/4,Atletico Madrid,Real Madrid,1,1
+2015/10/17,Real Madrid,Levante UD,3,0
+2015/10/17,SD Eibar,Sevilla FC,1,1
+2015/10/17,FC Barcelona,Rayo Vallecano,5,2
+2015/10/17,Valencia CF,Malaga CF,3,0
+2015/10/17,Real Betis,Espanyol Barcelona,1,3
+2015/10/18,Villarreal CF,Celta Vigo,1,2
+2015/10/18,Real Sociedad,Atletico Madrid,0,2
+2015/10/18,Getafe CF,UD Las Palmas,4,0
+2015/10/18,Deportivo La Coruna,Athletic Bilbao,2,2
+2015/10/19,Sporting Gijon,Granada CF,3,3
+2015/10/23,Rayo Vallecano,Espanyol Barcelona,3,0
+2015/10/24,Celta Vigo,Real Madrid,1,3
+2015/10/24,Granada CF,Real Betis,1,1
+2015/10/24,Sevilla FC,Getafe CF,5,0
+2015/10/24,Malaga CF,Deportivo La Coruna,2,0
+2015/10/25,Levante UD,Real Sociedad,0,4
+2015/10/25,UD Las Palmas,Villarreal CF,0,0
+2015/10/25,FC Barcelona,SD Eibar,3,1
+2015/10/25,Atletico Madrid,Valencia CF,2,1
+2015/10/26,Athletic Bilbao,Sporting Gijon,3,0
+2015/10/30,Deportivo La Coruna,Atletico Madrid,1,1
+2015/10/31,Real Madrid,UD Las Palmas,3,1
+2015/10/31,Villarreal CF,Sevilla FC,2,1
+2015/10/31,Valencia CF,Levante UD,3,0
+2015/10/31,Getafe CF,FC Barcelona,0,2
+2015/10/31,Real Sociedad,Celta Vigo,2,3
+2015/11/1,SD Eibar,Rayo Vallecano,1,0
+2015/11/1,Espanyol Barcelona,Granada CF,1,1
+2015/11/1,Sporting Gijon,Malaga CF,1,0
+2015/11/1,Real Betis,Athletic Bilbao,1,3
+2015/11/6,UD Las Palmas,Real Sociedad,2,0
+2015/11/7,Celta Vigo,Valencia CF,1,5
+2015/11/7,Levante UD,Deportivo La Coruna,1,1
+2015/11/7,SD Eibar,Getafe CF,3,1
+2015/11/7,Rayo Vallecano,Granada CF,2,1
+2015/11/7,Malaga CF,Real Betis,0,1
+2015/11/8,Athletic Bilbao,Espanyol Barcelona,2,1
+2015/11/8,FC Barcelona,Villarreal CF,3,0
+2015/11/8,Atletico Madrid,Sporting Gijon,1,0
+2015/11/8,Sevilla FC,Real Madrid,3,2
+2015/11/21,Real Sociedad,Sevilla FC,2,0
+2015/11/21,Real Madrid,FC Barcelona,0,4
+2015/11/21,Espanyol Barcelona,Malaga CF,2,0
+2015/11/21,Valencia CF,UD Las Palmas,1,1
+2015/11/21,Deportivo La Coruna,Celta Vigo,2,0
+2015/11/22,Sporting Gijon,Levante UD,0,3
+2015/11/22,Villarreal CF,SD Eibar,1,1
+2015/11/22,Granada CF,Athletic Bilbao,2,0
+2015/11/22,Real Betis,Atletico Madrid,0,1
+2015/11/23,Getafe CF,Rayo Vallecano,1,1
+2015/11/27,Levante UD,Real Betis,0,1
+2015/11/28,FC Barcelona,Real Sociedad,4,0
+2015/11/28,Atletico Madrid,Espanyol Barcelona,1,0
+2015/11/28,Malaga CF,Granada CF,2,2
+2015/11/28,UD Las Palmas,Deportivo La Coruna,0,2
+2015/11/28,Celta Vigo,Sporting Gijon,2,1
+2015/11/29,Getafe CF,Villarreal CF,2,0
+2015/11/29,SD Eibar,Real Madrid,0,2
+2015/11/29,Rayo Vallecano,Athletic Bilbao,0,3
+2015/11/29,Sevilla FC,Valencia CF,1,0
+2015/12/5,Real Madrid,Getafe CF,4,1
+2015/12/5,Granada CF,Atletico Madrid,0,2
+2015/12/5,Valencia CF,FC Barcelona,1,1
+2015/12/5,Deportivo La Coruna,Sevilla FC,1,1
+2015/12/5,Real Betis,Celta Vigo,1,1
+2015/12/6,Real Sociedad,SD Eibar,2,1
+2015/12/6,Villarreal CF,Rayo Vallecano,2,1
+2015/12/6,Sporting Gijon,UD Las Palmas,3,1
+2015/12/6,Athletic Bilbao,Malaga CF,0,0
+2015/12/7,Espanyol Barcelona,Levante UD,1,1
+2015/12/11,Getafe CF,Real Sociedad,1,1
+2015/12/12,FC Barcelona,Deportivo La Coruna,2,2
+2015/12/12,Celta Vigo,Espanyol Barcelona,1,0
+2015/12/12,Levante UD,Granada CF,1,2
+2015/12/12,Sevilla FC,Sporting Gijon,2,0
+2015/12/12,UD Las Palmas,Real Betis,1,0
+2015/12/13,Rayo Vallecano,Malaga CF,1,2
+2015/12/13,SD Eibar,Valencia CF,1,1
+2015/12/13,Atletico Madrid,Athletic Bilbao,2,1
+2015/12/13,Villarreal CF,Real Madrid,1,0
+2015/12/19,Valencia CF,Getafe CF,2,2
+2015/12/19,Espanyol Barcelona,UD Las Palmas,1,0
+2015/12/19,Real Betis,Sevilla FC,0,0
+2015/12/19,Deportivo La Coruna,SD Eibar,2,0
+2015/12/20,Real Madrid,Rayo Vallecano,10,2
+2015/12/20,Real Sociedad,Villarreal CF,0,2
+2015/12/20,Granada CF,Celta Vigo,0,2
+2015/12/20,Athletic Bilbao,Levante UD,2,0
+2015/12/20,Malaga CF,Atletico Madrid,1,0
+2016/2/17,Sporting Gijon,FC Barcelona,1,3
+2015/12/30,Real Madrid,Real Sociedad,3,1
+2015/12/30,Levante UD,Malaga CF,0,1
+2015/12/30,Sevilla FC,Espanyol Barcelona,2,0
+2015/12/30,Rayo Vallecano,Atletico Madrid,0,2
+2015/12/30,SD Eibar,Sporting Gijon,2,0
+2015/12/30,Getafe CF,Deportivo La Coruna,0,0
+2015/12/30,FC Barcelona,Real Betis,4,0
+2015/12/30,Celta Vigo,Athletic Bilbao,0,1
+2015/12/30,UD Las Palmas,Granada CF,4,1
+2015/12/31,Villarreal CF,Valencia CF,1,0
+2016/1/2,Espanyol Barcelona,FC Barcelona,0,0
+2016/1/2,Atletico Madrid,Levante UD,1,0
+2016/1/2,Malaga CF,Celta Vigo,2,0
+2016/1/3,Rayo Vallecano,Real Sociedad,2,2
+2016/1/3,Real Betis,SD Eibar,0,4
+2016/1/3,Granada CF,Sevilla FC,2,1
+2016/1/3,Deportivo La Coruna,Villarreal CF,1,2
+2016/1/3,Athletic Bilbao,UD Las Palmas,2,2
+2016/1/3,Valencia CF,Real Madrid,2,2
+2016/1/4,Sporting Gijon,Getafe CF,1,2
+2016/1/9,FC Barcelona,Granada CF,4,0
+2016/1/9,Getafe CF,Real Betis,1,0
+2016/1/9,Sevilla FC,Athletic Bilbao,2,0
+2016/1/9,Real Madrid,Deportivo La Coruna,5,0
+2016/1/9,Levante UD,Rayo Vallecano,2,1
+2016/1/10,Villarreal CF,Sporting Gijon,2,0
+2016/1/10,Real Sociedad,Valencia CF,2,0
+2016/1/10,SD Eibar,Espanyol Barcelona,2,1
+2016/1/10,UD Las Palmas,Malaga CF,1,1
+2016/1/10,Celta Vigo,Atletico Madrid,0,2
+2016/1/16,Sevilla FC,Malaga CF,2,1
+2016/1/16,Celta Vigo,Levante UD,4,3
+2016/1/16,Villarreal CF,Real Betis,0,0
+2016/1/16,Real Sociedad,Deportivo La Coruna,1,1
+2016/1/17,Valencia CF,Rayo Vallecano,2,2
+2016/1/17,Real Madrid,Sporting Gijon,5,1
+2016/1/17,Getafe CF,Espanyol Barcelona,3,1
+2016/1/17,UD Las Palmas,Atletico Madrid,0,3
+2016/1/17,FC Barcelona,Athletic Bilbao,6,0
+2016/1/18,SD Eibar,Granada CF,5,1
+2016/1/22,Sporting Gijon,Real Sociedad,5,1
+2016/1/23,Malaga CF,FC Barcelona,1,2
+2016/1/23,Espanyol Barcelona,Villarreal CF,2,2
+2016/1/23,Granada CF,Getafe CF,3,2
+2016/1/23,Rayo Vallecano,Celta Vigo,3,0
+2016/1/24,Athletic Bilbao,SD Eibar,5,2
+2016/1/24,Atletico Madrid,Sevilla FC,0,0
+2016/1/24,Deportivo La Coruna,Valencia CF,1,1
+2016/1/24,Real Betis,Real Madrid,1,1
+2016/1/25,Levante UD,UD Las Palmas,3,2
+2016/1/30,FC Barcelona,Atletico Madrid,2,1
+2016/1/30,SD Eibar,Malaga CF,1,2
+2016/1/30,Getafe CF,Athletic Bilbao,0,1
+2016/1/30,Villarreal CF,Granada CF,1,0
+2016/1/30,Real Sociedad,Real Betis,2,1
+2016/1/31,Sevilla FC,Levante UD,3,1
+2016/1/31,Valencia CF,Sporting Gijon,0,1
+2016/1/31,UD Las Palmas,Celta Vigo,2,1
+2016/1/31,Real Madrid,Espanyol Barcelona,6,0
+2016/2/1,Deportivo La Coruna,Rayo Vallecano,2,2
+2016/2/5,Malaga CF,Getafe CF,3,0
+2016/2/6,Atletico Madrid,SD Eibar,3,1
+2016/2/6,Rayo Vallecano,UD Las Palmas,2,0
+2016/2/6,Athletic Bilbao,Villarreal CF,0,0
+2016/2/6,Sporting Gijon,Deportivo La Coruna,1,1
+2016/2/7,Levante UD,FC Barcelona,0,2
+2016/2/7,Real Betis,Valencia CF,1,0
+2016/2/7,Celta Vigo,Sevilla FC,1,1
+2016/2/7,Granada CF,Real Madrid,1,2
+2016/2/8,Espanyol Barcelona,Real Sociedad,0,5
+2016/2/12,Sporting Gijon,Rayo Vallecano,2,2
+2016/2/13,Real Madrid,Athletic Bilbao,4,2
+2016/2/13,Villarreal CF,Malaga CF,1,0
+2016/2/13,Valencia CF,Espanyol Barcelona,2,1
+2016/2/13,Deportivo La Coruna,Real Betis,2,2
+2016/2/14,Real Sociedad,Granada CF,3,0
+2016/2/14,Sevilla FC,UD Las Palmas,2,0
+2016/2/14,SD Eibar,Levante UD,2,0
+2016/2/14,Getafe CF,Atletico Madrid,0,1
+2016/2/14,FC Barcelona,Celta Vigo,6,1
+2016/2/19,Levante UD,Getafe CF,3,0
+2016/2/20,UD Las Palmas,FC Barcelona,1,2
+2016/2/20,Espanyol Barcelona,Deportivo La Coruna,1,0
+2016/2/20,Real Betis,Sporting Gijon,1,1
+2016/2/20,Celta Vigo,SD Eibar,3,2
+2016/2/21,Rayo Vallecano,Sevilla FC,2,2
+2016/2/21,Malaga CF,Real Madrid,1,1
+2016/2/21,Athletic Bilbao,Real Sociedad,0,1
+2016/2/21,Granada CF,Valencia CF,1,2
+2016/2/21,Atletico Madrid,Villarreal CF,0,0
+2016/2/26,SD Eibar,UD Las Palmas,0,1
+2016/2/27,Real Madrid,Atletico Madrid,0,1
+2016/2/27,Getafe CF,Celta Vigo,0,1
+2016/2/27,Sporting Gijon,Espanyol Barcelona,2,4
+2016/2/27,Real Betis,Rayo Vallecano,2,2
+2016/2/27,Real Sociedad,Malaga CF,1,1
+2016/2/28,Villarreal CF,Levante UD,3,0
+2016/2/28,Valencia CF,Athletic Bilbao,0,3
+2016/2/28,Deportivo La Coruna,Granada CF,0,1
+2016/2/28,FC Barcelona,Sevilla FC,2,1
+2016/3/1,Atletico Madrid,Real Sociedad,3,0
+2016/3/1,UD Las Palmas,Getafe CF,4,0
+2016/3/2,Sevilla FC,SD Eibar,1,0
+2016/3/2,Celta Vigo,Villarreal CF,0,0
+2016/3/2,Malaga CF,Valencia CF,1,2
+2016/3/2,Athletic Bilbao,Deportivo La Coruna,4,1
+2016/3/2,Levante UD,Real Madrid,1,3
+2016/3/3,Granada CF,Sporting Gijon,2,0
+2016/3/3,Espanyol Barcelona,Real Betis,0,3
+2016/3/3,Rayo Vallecano,FC Barcelona,1,5
+2016/3/5,Real Madrid,Celta Vigo,7,1
+2016/3/5,Villarreal CF,UD Las Palmas,0,1
+2016/3/5,Getafe CF,Sevilla FC,1,1
+2016/3/5,Deportivo La Coruna,Malaga CF,3,3
+2016/3/6,Real Betis,Granada CF,2,0
+2016/3/6,SD Eibar,FC Barcelona,0,4
+2016/3/6,Real Sociedad,Levante UD,1,1
+2016/3/6,Sporting Gijon,Athletic Bilbao,0,2
+2016/3/6,Valencia CF,Atletico Madrid,1,3
+2016/3/7,Espanyol Barcelona,Rayo Vallecano,2,1
+2016/3/11,Malaga CF,Sporting Gijon,1,0
+2016/3/12,FC Barcelona,Getafe CF,6,0
+2016/3/12,Celta Vigo,Real Sociedad,1,0
+2016/3/12,Atletico Madrid,Deportivo La Coruna,3,0
+2016/3/12,Rayo Vallecano,SD Eibar,1,1
+2016/3/13,Levante UD,Valencia CF,1,0
+2016/3/13,Sevilla FC,Villarreal CF,4,2
+2016/3/13,Athletic Bilbao,Real Betis,3,1
+2016/3/13,UD Las Palmas,Real Madrid,1,2
+2016/3/14,Granada CF,Espanyol Barcelona,1,1
+2016/3/18,Getafe CF,SD Eibar,1,1
+2016/3/19,Sporting Gijon,Atletico Madrid,2,1
+2016/3/19,Real Sociedad,UD Las Palmas,0,1
+2016/3/19,Granada CF,Rayo Vallecano,2,2
+2016/3/19,Deportivo La Coruna,Levante UD,2,1
+2016/3/19,Real Betis,Malaga CF,0,1
+2016/3/20,Espanyol Barcelona,Athletic Bilbao,2,1
+2016/3/20,Villarreal CF,FC Barcelona,2,2
+2016/3/20,Valencia CF,Celta Vigo,0,2
+2016/3/20,Real Madrid,Sevilla FC,4,0
+2016/4/1,Rayo Vallecano,Getafe CF,2,0
+2016/4/2,Atletico Madrid,Real Betis,5,1
+2016/4/2,UD Las Palmas,Valencia CF,2,1
+2016/4/2,FC Barcelona,Real Madrid,1,2
+2016/4/2,Celta Vigo,Deportivo La Coruna,1,1
+2016/4/3,Athletic Bilbao,Granada CF,1,1
+2016/4/3,Malaga CF,Espanyol Barcelona,1,1
+2016/4/3,SD Eibar,Villarreal CF,1,2
+2016/4/3,Sevilla FC,Real Sociedad,1,2
+2016/4/4,Levante UD,Sporting Gijon,0,0
+2016/4/8,Granada CF,Malaga CF,0,0
+2016/4/9,Real Madrid,SD Eibar,4,0
+2016/4/9,Espanyol Barcelona,Atletico Madrid,1,3
+2016/4/9,Real Sociedad,FC Barcelona,1,0
+2016/4/9,Real Betis,Levante UD,1,0
+2016/4/10,Sporting Gijon,Celta Vigo,0,1
+2016/4/10,Valencia CF,Sevilla FC,2,1
+2016/4/10,Villarreal CF,Getafe CF,2,0
+2016/4/10,Athletic Bilbao,Rayo Vallecano,1,0
+2016/4/11,Deportivo La Coruna,UD Las Palmas,1,3
+2016/4/15,Levante UD,Espanyol Barcelona,2,1
+2016/4/16,Getafe CF,Real Madrid,1,5
+2016/4/16,UD Las Palmas,Sporting Gijon,1,1
+2016/4/16,SD Eibar,Real Sociedad,2,1
+2016/4/16,Celta Vigo,Real Betis,1,1
+2016/4/17,Malaga CF,Athletic Bilbao,0,1
+2016/4/17,Sevilla FC,Deportivo La Coruna,1,1
+2016/4/17,Rayo Vallecano,Villarreal CF,2,1
+2016/4/17,Atletico Madrid,Granada CF,3,0
+2016/4/17,FC Barcelona,Valencia CF,1,2
+2016/4/19,Espanyol Barcelona,Celta Vigo,1,1
+2016/4/19,Real Betis,UD Las Palmas,1,0
+2016/4/20,Deportivo La Coruna,FC Barcelona,0,8
+2016/4/20,Valencia CF,SD Eibar,4,0
+2016/4/20,Sporting Gijon,Sevilla FC,2,1
+2016/4/20,Athletic Bilbao,Atletico Madrid,0,1
+2016/4/20,Malaga CF,Rayo Vallecano,1,1
+2016/4/20,Real Madrid,Villarreal CF,3,0
+2016/4/21,Real Sociedad,Getafe CF,1,2
+2016/4/21,Granada CF,Levante UD,5,1
+2016/4/22,UD Las Palmas,Espanyol Barcelona,4,0
+2016/4/23,Rayo Vallecano,Real Madrid,2,3
+2016/4/23,Atletico Madrid,Malaga CF,1,0
+2016/4/23,FC Barcelona,Sporting Gijon,6,0
+2016/4/23,SD Eibar,Deportivo La Coruna,1,1
+2016/4/24,Levante UD,Athletic Bilbao,2,2
+2016/4/24,Sevilla FC,Real Betis,2,0
+2016/4/24,Getafe CF,Valencia CF,2,2
+2016/4/24,Villarreal CF,Real Sociedad,0,0
+2016/4/25,Celta Vigo,Granada CF,2,1
+2016/4/29,Sporting Gijon,SD Eibar,2,0
+2016/4/30,Real Sociedad,Real Madrid,0,1
+2016/4/30,Atletico Madrid,Rayo Vallecano,1,0
+2016/4/30,Real Betis,FC Barcelona,0,2
+2016/4/30,Granada CF,UD Las Palmas,3,2
+2016/5/1,Athletic Bilbao,Celta Vigo,2,1
+2016/5/1,Espanyol Barcelona,Sevilla FC,1,0
+2016/5/1,Deportivo La Coruna,Getafe CF,0,2
+2016/5/1,Valencia CF,Villarreal CF,0,2
+2016/5/2,Malaga CF,Levante UD,3,1
+2016/5/8,Real Sociedad,Rayo Vallecano,2,1
+2016/5/8,Real Madrid,Valencia CF,3,2
+2016/5/8,Villarreal CF,Deportivo La Coruna,0,2
+2016/5/8,Getafe CF,Sporting Gijon,1,1
+2016/5/8,SD Eibar,Real Betis,1,1
+2016/5/8,FC Barcelona,Espanyol Barcelona,5,0
+2016/5/8,Sevilla FC,Granada CF,1,4
+2016/5/8,UD Las Palmas,Athletic Bilbao,0,0
+2016/5/8,Celta Vigo,Malaga CF,1,0
+2016/5/8,Levante UD,Atletico Madrid,2,1
+2016/5/13,Valencia CF,Real Sociedad,0,1
+2016/5/14,Deportivo La Coruna,Real Madrid,0,2
+2016/5/14,Granada CF,FC Barcelona,0,3
+2016/5/14,Athletic Bilbao,Sevilla FC,3,1
+2016/5/14,Atletico Madrid,Celta Vigo,2,0
+2016/5/15,Malaga CF,UD Las Palmas,4,1
+2016/5/15,Espanyol Barcelona,SD Eibar,4,2
+2016/5/15,Sporting Gijon,Villarreal CF,2,0
+2016/5/15,Real Betis,Getafe CF,2,1
+2016/5/15,Rayo Vallecano,Levante UD,3,1
+2016/8/19,Deportivo La Coruna,SD Eibar,2,1
+2016/8/19,Malaga CF,CA Osasuna,1,1
+2016/8/20,FC Barcelona,Real Betis,6,2
+2016/8/20,Granada CF,Villarreal CF,1,1
+2016/8/20,Sevilla FC,Espanyol Barcelona,6,4
+2016/8/21,Atletico Madrid,CD Alaves,1,1
+2016/8/21,Real Sociedad,Real Madrid,0,3
+2016/8/21,Sporting Gijon,Athletic Bilbao,2,1
+2016/8/22,Celta Vigo,CD Leganes,0,1
+2016/8/22,Valencia CF,UD Las Palmas,2,4
+2016/8/26,Real Betis,Deportivo La Coruna,0,0
+2016/8/26,Espanyol Barcelona,Malaga CF,2,2
+2016/8/27,SD Eibar,Valencia CF,1,0
+2016/8/27,CD Leganes,Atletico Madrid,0,0
+2016/8/27,CA Osasuna,Real Sociedad,0,2
+2016/8/27,Real Madrid,Celta Vigo,2,1
+2016/8/28,CD Alaves,Sporting Gijon,0,0
+2016/8/28,Athletic Bilbao,FC Barcelona,0,1
+2016/8/28,UD Las Palmas,Granada CF,5,1
+2016/8/28,Villarreal CF,Sevilla FC,0,0
+2016/9/9,Real Sociedad,Espanyol Barcelona,1,1
+2016/9/10,FC Barcelona,CD Alaves,1,2
+2016/9/10,Celta Vigo,Atletico Madrid,0,4
+2016/9/10,Malaga CF,Villarreal CF,0,2
+2016/9/10,Real Madrid,CA Osasuna,5,2
+2016/9/10,Sevilla FC,UD Las Palmas,2,1
+2016/9/11,Granada CF,SD Eibar,1,2
+2016/9/11,Deportivo La Coruna,Athletic Bilbao,0,1
+2016/9/11,Sporting Gijon,CD Leganes,2,1
+2016/9/11,Valencia CF,Real Betis,2,3
+2016/9/16,Real Betis,Granada CF,2,2
+2016/9/17,Atletico Madrid,Sporting Gijon,5,0
+2016/9/17,SD Eibar,Sevilla FC,1,1
+2016/9/17,UD Las Palmas,Malaga CF,1,0
+2016/9/17,CD Leganes,FC Barcelona,1,5
+2016/9/18,Athletic Bilbao,Valencia CF,2,1
+2016/9/18,Espanyol Barcelona,Real Madrid,0,2
+2016/9/18,CA Osasuna,Celta Vigo,0,0
+2016/9/18,Villarreal CF,Real Sociedad,2,1
+2016/9/19,CD Alaves,Deportivo La Coruna,0,0
+2016/9/20,Malaga CF,SD Eibar,2,1
+2016/9/20,Sevilla FC,Real Betis,1,0
+2016/9/21,FC Barcelona,Atletico Madrid,1,1
+2016/9/21,Celta Vigo,Sporting Gijon,2,1
+2016/9/21,Granada CF,Athletic Bilbao,1,2
+2016/9/21,Real Madrid,Villarreal CF,1,1
+2016/9/21,Real Sociedad,UD Las Palmas,4,1
+2016/9/22,Deportivo La Coruna,CD Leganes,1,2
+2016/9/22,CA Osasuna,Espanyol Barcelona,1,2
+2016/9/22,Valencia CF,CD Alaves,2,1
+2016/9/23,Real Betis,Malaga CF,1,0
+2016/9/24,Athletic Bilbao,Sevilla FC,3,1
+2016/9/24,SD Eibar,Real Sociedad,2,0
+2016/9/24,UD Las Palmas,Real Madrid,2,2
+2016/9/24,Sporting Gijon,FC Barcelona,0,5
+2016/9/25,Atletico Madrid,Deportivo La Coruna,1,0
+2016/9/25,Espanyol Barcelona,Celta Vigo,0,2
+2016/9/25,CD Leganes,Valencia CF,1,2
+2016/9/25,Villarreal CF,CA Osasuna,3,1
+2016/9/26,CD Alaves,Granada CF,3,1
+2016/9/30,Real Sociedad,Real Betis,1,0
+2016/10/1,Granada CF,CD Leganes,0,1
+2016/10/1,Deportivo La Coruna,Sporting Gijon,2,1
+2016/10/1,CA Osasuna,UD Las Palmas,2,2
+2016/10/1,Sevilla FC,CD Alaves,2,1
+2016/10/2,Celta Vigo,FC Barcelona,4,3
+2016/10/2,Espanyol Barcelona,Villarreal CF,0,0
+2016/10/2,Malaga CF,Athletic Bilbao,2,1
+2016/10/2,Real Madrid,SD Eibar,1,1
+2016/10/2,Valencia CF,Atletico Madrid,0,2
+2016/10/14,UD Las Palmas,Espanyol Barcelona,0,0
+2016/10/15,Atletico Madrid,Granada CF,7,1
+2016/10/15,FC Barcelona,Deportivo La Coruna,4,0
+2016/10/15,Real Betis,Real Madrid,1,6
+2016/10/15,CD Leganes,Sevilla FC,2,3
+2016/10/16,CD Alaves,Malaga CF,1,1
+2016/10/16,Athletic Bilbao,Real Sociedad,3,2
+2016/10/16,Sporting Gijon,Valencia CF,1,2
+2016/10/16,Villarreal CF,Celta Vigo,5,0
+2016/10/17,SD Eibar,CA Osasuna,2,3
+2016/10/21,CA Osasuna,Real Betis,1,2
+2016/10/22,Espanyol Barcelona,SD Eibar,3,3
+2016/10/22,Granada CF,Sporting Gijon,0,0
+2016/10/22,Real Sociedad,CD Alaves,3,0
+2016/10/22,Valencia CF,FC Barcelona,2,3
+2016/10/23,Celta Vigo,Deportivo La Coruna,4,1
+2016/10/23,Malaga CF,CD Leganes,4,0
+2016/10/23,Real Madrid,Athletic Bilbao,2,1
+2016/10/23,Sevilla FC,Atletico Madrid,1,0
+2016/10/23,Villarreal CF,UD Las Palmas,2,1
+2016/10/28,CD Leganes,Real Sociedad,0,2
+2016/10/29,CD Alaves,Real Madrid,1,4
+2016/10/29,Atletico Madrid,Malaga CF,4,2
+2016/10/29,FC Barcelona,Granada CF,1,0
+2016/10/29,Sporting Gijon,Sevilla FC,1,1
+2016/10/30,Athletic Bilbao,CA Osasuna,1,1
+2016/10/30,Real Betis,Espanyol Barcelona,0,1
+2016/10/30,SD Eibar,Villarreal CF,2,1
+2016/10/30,UD Las Palmas,Celta Vigo,3,3
+2016/10/31,Deportivo La Coruna,Valencia CF,1,1
+2016/11/4,Malaga CF,Sporting Gijon,3,2
+2016/11/5,Granada CF,Deportivo La Coruna,1,1
+2016/11/5,UD Las Palmas,SD Eibar,1,0
+2016/11/5,CA Osasuna,CD Alaves,0,1
+2016/11/5,Real Sociedad,Atletico Madrid,2,0
+2016/11/6,Celta Vigo,Valencia CF,2,1
+2016/11/6,Espanyol Barcelona,Athletic Bilbao,0,0
+2016/11/6,Real Madrid,CD Leganes,3,0
+2016/11/6,Sevilla FC,FC Barcelona,1,2
+2016/11/6,Villarreal CF,Real Betis,2,0
+2016/11/18,Real Betis,UD Las Palmas,2,0
+2016/11/19,Atletico Madrid,Real Madrid,0,3
+2016/11/19,FC Barcelona,Malaga CF,0,0
+2016/11/19,SD Eibar,Celta Vigo,1,0
+2016/11/19,Deportivo La Coruna,Sevilla FC,2,3
+2016/11/20,CD Alaves,Espanyol Barcelona,0,1
+2016/11/20,Athletic Bilbao,Villarreal CF,1,0
+2016/11/20,Sporting Gijon,Real Sociedad,1,3
+2016/11/20,Valencia CF,Granada CF,1,1
+2016/11/21,CD Leganes,CA Osasuna,2,0
+2016/11/25,SD Eibar,Real Betis,3,1
+2016/11/26,Espanyol Barcelona,CD Leganes,3,0
+2016/11/26,Malaga CF,Deportivo La Coruna,4,3
+2016/11/26,Real Madrid,Sporting Gijon,2,1
+2016/11/26,Sevilla FC,Valencia CF,2,1
+2016/11/27,Celta Vigo,Granada CF,3,1
+2016/11/27,CA Osasuna,Atletico Madrid,0,3
+2016/11/27,Real Sociedad,FC Barcelona,1,1
+2016/11/27,Villarreal CF,CD Alaves,0,2
+2016/11/28,UD Las Palmas,Athletic Bilbao,3,1
+2016/12/3,Atletico Madrid,Espanyol Barcelona,0,0
+2016/12/3,FC Barcelona,Real Madrid,1,1
+2016/12/3,Granada CF,Sevilla FC,2,1
+2016/12/3,CD Leganes,Villarreal CF,0,0
+2016/12/4,CD Alaves,UD Las Palmas,1,1
+2016/12/4,Athletic Bilbao,SD Eibar,3,1
+2016/12/4,Real Betis,Celta Vigo,3,3
+2016/12/4,Sporting Gijon,CA Osasuna,3,1
+2016/12/4,Valencia CF,Malaga CF,2,2
+2016/12/5,Deportivo La Coruna,Real Sociedad,5,1
+2016/12/9,Malaga CF,Granada CF,1,1
+2016/12/10,UD Las Palmas,CD Leganes,1,1
+2016/12/10,CA Osasuna,FC Barcelona,0,3
+2016/12/10,Real Madrid,Deportivo La Coruna,3,2
+2016/12/10,Real Sociedad,Valencia CF,3,2
+2016/12/11,Real Betis,Athletic Bilbao,1,0
+2016/12/11,Celta Vigo,Sevilla FC,0,3
+2016/12/11,SD Eibar,CD Alaves,0,0
+2016/12/11,Espanyol Barcelona,Sporting Gijon,2,1
+2016/12/12,Villarreal CF,Atletico Madrid,3,0
+2016/12/16,CD Alaves,Real Betis,1,0
+2016/12/17,Atletico Madrid,UD Las Palmas,1,0
+2016/12/17,Granada CF,Real Sociedad,0,2
+2016/12/17,Sevilla FC,Malaga CF,4,1
+2016/12/17,Sporting Gijon,Villarreal CF,1,3
+2016/12/18,FC Barcelona,Espanyol Barcelona,4,1
+2016/12/18,Deportivo La Coruna,CA Osasuna,2,0
+2016/12/18,CD Leganes,SD Eibar,1,1
+2016/12/19,Athletic Bilbao,Celta Vigo,2,1
+2017/1/6,Espanyol Barcelona,Deportivo La Coruna,1,1
+2017/1/7,SD Eibar,Atletico Madrid,0,2
+2017/1/7,UD Las Palmas,Sporting Gijon,1,0
+2017/1/7,Real Madrid,Granada CF,5,0
+2017/1/7,Real Sociedad,Sevilla FC,0,4
+2017/1/8,Athletic Bilbao,CD Alaves,0,0
+2017/1/8,Real Betis,CD Leganes,2,0
+2017/1/8,Celta Vigo,Malaga CF,3,1
+2017/1/8,Villarreal CF,FC Barcelona,1,1
+2017/1/9,CA Osasuna,Valencia CF,3,3
+2017/1/14,Atletico Madrid,Real Betis,1,0
+2017/1/14,FC Barcelona,UD Las Palmas,5,0
+2017/1/14,Deportivo La Coruna,Villarreal CF,0,0
+2017/1/14,CD Leganes,Athletic Bilbao,0,0
+2017/1/15,Celta Vigo,CD Alaves,1,0
+2017/1/15,Granada CF,CA Osasuna,1,1
+2017/1/15,Sevilla FC,Real Madrid,2,1
+2017/1/15,Sporting Gijon,SD Eibar,2,3
+2017/1/15,Valencia CF,Espanyol Barcelona,2,1
+2017/1/16,Malaga CF,Real Sociedad,0,2
+2017/1/20,UD Las Palmas,Deportivo La Coruna,1,1
+2017/1/21,CD Alaves,CD Leganes,2,2
+2017/1/21,Espanyol Barcelona,Granada CF,3,1
+2017/1/21,Real Madrid,Malaga CF,2,1
+2017/1/21,Villarreal CF,Valencia CF,0,2
+2017/1/22,Athletic Bilbao,Atletico Madrid,2,2
+2017/1/22,Real Betis,Sporting Gijon,0,0
+2017/1/22,SD Eibar,FC Barcelona,0,4
+2017/1/22,CA Osasuna,Sevilla FC,3,4
+2017/1/22,Real Sociedad,Celta Vigo,1,0
+2017/1/27,CA Osasuna,Malaga CF,1,1
+2017/1/28,CD Alaves,Atletico Madrid,0,0
+2017/1/28,SD Eibar,Deportivo La Coruna,3,1
+2017/1/28,CD Leganes,Celta Vigo,0,2
+2017/1/28,Villarreal CF,Granada CF,2,0
+2017/1/29,Athletic Bilbao,Sporting Gijon,2,1
+2017/1/29,Real Betis,FC Barcelona,1,1
+2017/1/29,Espanyol Barcelona,Sevilla FC,3,1
+2017/1/29,Real Madrid,Real Sociedad,3,0
+2017/1/30,UD Las Palmas,Valencia CF,3,1
+2017/2/4,Atletico Madrid,CD Leganes,2,0
+2017/2/4,FC Barcelona,Athletic Bilbao,3,0
+2017/2/4,Malaga CF,Espanyol Barcelona,0,1
+2017/2/4,Valencia CF,SD Eibar,0,4
+2017/2/5,Sevilla FC,Villarreal CF,0,0
+2017/2/5,Real Sociedad,CA Osasuna,3,2
+2017/2/5,Sporting Gijon,CD Alaves,2,4
+2017/2/6,Granada CF,UD Las Palmas,1,0
+2017/2/10,Espanyol Barcelona,Real Sociedad,1,2
+2017/2/11,CD Alaves,FC Barcelona,0,6
+2017/2/11,Athletic Bilbao,Deportivo La Coruna,2,1
+2017/2/11,Real Betis,Valencia CF,0,0
+2017/2/11,CA Osasuna,Real Madrid,1,3
+2017/2/12,Atletico Madrid,Celta Vigo,3,2
+2017/2/12,UD Las Palmas,Sevilla FC,0,1
+2017/2/12,CD Leganes,Sporting Gijon,0,2
+2017/2/12,Villarreal CF,Malaga CF,1,1
+2017/2/13,SD Eibar,Granada CF,4,0
+2017/2/17,Granada CF,Real Betis,4,1
+2017/2/18,Deportivo La Coruna,CD Alaves,0,1
+2017/2/18,Real Madrid,Espanyol Barcelona,2,0
+2017/2/18,Sevilla FC,SD Eibar,2,0
+2017/2/18,Sporting Gijon,Atletico Madrid,1,4
+2017/2/19,FC Barcelona,CD Leganes,2,1
+2017/2/19,Celta Vigo,CA Osasuna,3,0
+2017/2/19,Real Sociedad,Villarreal CF,0,1
+2017/2/19,Valencia CF,Athletic Bilbao,2,0
+2017/2/20,Malaga CF,UD Las Palmas,2,1
+2017/2/22,Valencia CF,Real Madrid,2,1
+2017/2/24,UD Las Palmas,Real Sociedad,0,1
+2017/2/25,CD Alaves,Valencia CF,2,1
+2017/2/25,Real Betis,Sevilla FC,1,2
+2017/2/25,SD Eibar,Malaga CF,3,0
+2017/2/25,CD Leganes,Deportivo La Coruna,4,0
+2017/2/26,Athletic Bilbao,Granada CF,3,1
+2017/2/26,Atletico Madrid,FC Barcelona,1,2
+2017/2/26,Espanyol Barcelona,CA Osasuna,3,0
+2017/2/26,Sporting Gijon,Celta Vigo,1,1
+2017/2/26,Villarreal CF,Real Madrid,2,3
+2017/2/28,Malaga CF,Real Betis,1,2
+2017/2/28,Real Sociedad,SD Eibar,2,2
+2017/2/28,Valencia CF,CD Leganes,1,0
+2017/3/1,FC Barcelona,Sporting Gijon,6,1
+2017/3/1,Celta Vigo,Espanyol Barcelona,2,2
+2017/3/1,Granada CF,CD Alaves,2,1
+2017/3/1,CA Osasuna,Villarreal CF,1,4
+2017/3/1,Real Madrid,UD Las Palmas,3,3
+2017/3/2,Deportivo La Coruna,Atletico Madrid,1,1
+2017/3/2,Sevilla FC,Athletic Bilbao,1,0
+2017/3/3,Real Betis,Real Sociedad,2,3
+2017/3/4,FC Barcelona,Celta Vigo,5,0
+2017/3/4,SD Eibar,Real Madrid,1,4
+2017/3/4,CD Leganes,Granada CF,1,0
+2017/3/4,Villarreal CF,Espanyol Barcelona,2,0
+2017/3/5,Athletic Bilbao,Malaga CF,1,0
+2017/3/5,Atletico Madrid,Valencia CF,3,0
+2017/3/5,UD Las Palmas,CA Osasuna,5,2
+2017/3/5,Sporting Gijon,Deportivo La Coruna,0,1
+2017/3/6,CD Alaves,Sevilla FC,1,1
+2017/3/8,Deportivo La Coruna,Real Betis,1,1
+2017/3/10,Espanyol Barcelona,UD Las Palmas,4,3
+2017/3/11,Granada CF,Atletico Madrid,0,1
+2017/3/11,Malaga CF,CD Alaves,1,2
+2017/3/11,Sevilla FC,CD Leganes,1,1
+2017/3/11,Valencia CF,Sporting Gijon,1,1
+2017/3/12,Celta Vigo,Villarreal CF,0,1
+2017/3/12,Deportivo La Coruna,FC Barcelona,2,1
+2017/3/12,Real Madrid,Real Betis,2,1
+2017/3/12,Real Sociedad,Athletic Bilbao,0,2
+2017/3/13,CA Osasuna,SD Eibar,1,1
+2017/3/17,UD Las Palmas,Villarreal CF,1,0
+2017/3/18,CD Alaves,Real Sociedad,1,0
+2017/3/18,Athletic Bilbao,Real Madrid,1,2
+2017/3/18,Real Betis,CA Osasuna,2,0
+2017/3/18,SD Eibar,Espanyol Barcelona,1,1
+2017/3/19,Atletico Madrid,Sevilla FC,3,1
+2017/3/19,FC Barcelona,Valencia CF,4,2
+2017/3/19,Deportivo La Coruna,Celta Vigo,0,1
+2017/3/19,CD Leganes,Malaga CF,0,0
+2017/3/19,Sporting Gijon,Granada CF,3,1
+2017/3/31,Espanyol Barcelona,Real Betis,2,1
+2017/4/1,Malaga CF,Atletico Madrid,0,2
+2017/4/1,CA Osasuna,Athletic Bilbao,1,2
+2017/4/1,Real Sociedad,CD Leganes,1,1
+2017/4/1,Villarreal CF,SD Eibar,2,3
+2017/4/2,Granada CF,FC Barcelona,1,4
+2017/4/2,Real Madrid,CD Alaves,3,0
+2017/4/2,Sevilla FC,Sporting Gijon,0,0
+2017/4/2,Valencia CF,Deportivo La Coruna,3,0
+2017/4/3,Celta Vigo,UD Las Palmas,3,1
+2017/4/4,Athletic Bilbao,Espanyol Barcelona,2,0
+2017/4/4,Atletico Madrid,Real Sociedad,1,0
+2017/4/4,Real Betis,Villarreal CF,0,1
+2017/4/5,CD Alaves,CA Osasuna,0,1
+2017/4/5,FC Barcelona,Sevilla FC,3,0
+2017/4/5,Deportivo La Coruna,Granada CF,0,0
+2017/4/5,CD Leganes,Real Madrid,2,4
+2017/4/5,Sporting Gijon,Malaga CF,0,1
+2017/4/6,SD Eibar,UD Las Palmas,3,1
+2017/4/6,Valencia CF,Celta Vigo,3,2
+2017/4/7,Villarreal CF,Athletic Bilbao,3,1
+2017/4/8,Espanyol Barcelona,CD Alaves,1,0
+2017/4/8,Malaga CF,FC Barcelona,2,0
+2017/4/8,Real Madrid,Atletico Madrid,1,1
+2017/4/8,Sevilla FC,Deportivo La Coruna,4,2
+2017/4/9,Celta Vigo,SD Eibar,0,2
+2017/4/9,Granada CF,Valencia CF,1,3
+2017/4/9,UD Las Palmas,Real Betis,4,1
+2017/4/9,CA Osasuna,CD Leganes,2,1
+2017/4/10,Real Sociedad,Sporting Gijon,3,1
+2017/4/14,Athletic Bilbao,UD Las Palmas,5,1
+2017/4/15,Atletico Madrid,CA Osasuna,3,0
+2017/4/15,FC Barcelona,Real Sociedad,3,2
+2017/4/15,Deportivo La Coruna,Malaga CF,2,0
+2017/4/15,Sporting Gijon,Real Madrid,2,3
+2017/4/16,Real Betis,SD Eibar,2,0
+2017/4/16,Granada CF,Celta Vigo,0,3
+2017/4/16,CD Leganes,Espanyol Barcelona,0,1
+2017/4/16,Valencia CF,Sevilla FC,0,0
+2017/4/17,CD Alaves,Villarreal CF,2,1
+2017/4/21,Sevilla FC,Granada CF,2,0
+2017/4/22,Espanyol Barcelona,Atletico Madrid,0,1
+2017/4/22,Malaga CF,Valencia CF,2,0
+2017/4/22,CA Osasuna,Sporting Gijon,2,2
+2017/4/22,Villarreal CF,CD Leganes,2,1
+2017/4/23,Celta Vigo,Real Betis,0,1
+2017/4/23,UD Las Palmas,CD Alaves,1,1
+2017/4/23,Real Madrid,FC Barcelona,2,3
+2017/4/23,Real Sociedad,Deportivo La Coruna,1,0
+2017/4/24,SD Eibar,Athletic Bilbao,0,1
+2017/4/25,Atletico Madrid,Villarreal CF,0,1
+2017/4/25,Granada CF,Malaga CF,0,2
+2017/4/25,Sporting Gijon,Espanyol Barcelona,1,1
+2017/4/26,FC Barcelona,CA Osasuna,7,1
+2017/4/26,Deportivo La Coruna,Real Madrid,2,6
+2017/4/26,CD Leganes,UD Las Palmas,3,0
+2017/4/26,Valencia CF,Real Sociedad,2,3
+2017/4/27,CD Alaves,SD Eibar,0,0
+2017/4/27,Athletic Bilbao,Real Betis,2,1
+2017/4/27,Sevilla FC,Celta Vigo,2,1
+2017/4/28,Villarreal CF,Sporting Gijon,3,1
+2017/4/29,Espanyol Barcelona,FC Barcelona,0,3
+2017/4/29,UD Las Palmas,Atletico Madrid,0,5
+2017/4/29,Real Madrid,Valencia CF,2,1
+2017/4/29,Real Sociedad,Granada CF,2,1
+2017/4/30,Real Betis,CD Alaves,1,4
+2017/4/30,Celta Vigo,Athletic Bilbao,0,3
+2017/4/30,SD Eibar,CD Leganes,2,0
+2017/4/30,CA Osasuna,Deportivo La Coruna,2,2
+2017/5/1,Malaga CF,Sevilla FC,4,2
+2017/5/5,Sevilla FC,Real Sociedad,1,1
+2017/5/6,Atletico Madrid,SD Eibar,1,0
+2017/5/6,FC Barcelona,Villarreal CF,4,1
+2017/5/6,Granada CF,Real Madrid,0,4
+2017/5/6,Sporting Gijon,UD Las Palmas,1,0
+2017/5/7,CD Alaves,Athletic Bilbao,1,0
+2017/5/7,Deportivo La Coruna,Espanyol Barcelona,1,2
+2017/5/7,Malaga CF,Celta Vigo,3,0
+2017/5/7,Valencia CF,CA Osasuna,4,1
+2017/5/8,CD Leganes,Real Betis,4,0
+2017/5/13,Espanyol Barcelona,Valencia CF,0,1
+2017/5/13,CA Osasuna,Granada CF,2,1
+2017/5/14,CD Alaves,Celta Vigo,3,1
+2017/5/14,Athletic Bilbao,CD Leganes,1,1
+2017/5/14,Real Betis,Atletico Madrid,1,1
+2017/5/14,SD Eibar,Sporting Gijon,0,1
+2017/5/14,UD Las Palmas,FC Barcelona,1,4
+2017/5/14,Real Madrid,Sevilla FC,4,1
+2017/5/14,Real Sociedad,Malaga CF,2,2
+2017/5/14,Villarreal CF,Deportivo La Coruna,0,0
+2017/5/17,Celta Vigo,Real Madrid,1,4
+2017/5/19,Granada CF,Espanyol Barcelona,1,2
+2017/5/20,Deportivo La Coruna,UD Las Palmas,3,0
+2017/5/20,CD Leganes,CD Alaves,1,1
+2017/5/20,Sevilla FC,CA Osasuna,5,0
+2017/5/20,Sporting Gijon,Real Betis,2,2
+2017/5/21,Atletico Madrid,Athletic Bilbao,3,1
+2017/5/21,FC Barcelona,SD Eibar,4,2
+2017/5/21,Celta Vigo,Real Sociedad,2,2
+2017/5/21,Malaga CF,Real Madrid,0,2
+2017/5/21,Valencia CF,Villarreal CF,1,3
